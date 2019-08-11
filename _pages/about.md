@@ -8,3 +8,4 @@ redirect_from:
   - /about.html
 ---
 
+My name is Matthew Hamilton. I am a X, Y, Z.
