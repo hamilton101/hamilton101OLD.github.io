@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Papers
+# Contributions
 
 ## 2019
 
@@ -26,11 +26,15 @@ Week 2018 SID Symposium Digest of Technical Papers, Vol. 29, 1523-1526.
 - [Light Field Displays: From Current Developments to the Next Generation](http://www.smfold.org/wp-content/uploads/2017/10/Avavlon-Light-Field-Displays-From-Current-Developments-to-the-Next-Generation_RBEdits.pdf) 2017
 Streaming Media Field of Light Display (SMFoLD) Workshop, Sterling, VA, U.S.A.
 
+
 ## 2016
 
+- [Integrated Design and Analysis for Virtual Arctic Simulation Environment](https://www.onepetro.org/conference-paper/OTC-27392-MS) Proceedings of
+the OTC Arctic Technology Conference, St. John's, Canada. Hamilton, M. Maynard, A., Jujuly, M., Adeoti, I., Rahman, A., Adey, M.
 
 ## 2015
 
+- [Virtual Arctic Simulation Environment](https://www.onepetro.org/conference-paper/OTC-25525-MS)
 
 ## 2013
 
