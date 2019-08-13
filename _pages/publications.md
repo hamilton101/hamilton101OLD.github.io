@@ -21,7 +21,7 @@ author_profile: true
 
 # Press Articles
 
--[Simulated Environment, Real Gains in Arctic](https://explorer.aapg.org/story?articleid=15833) Louise S. Durham, AAPG Explorer, February 2015
+- [Simulated Environment, Real Gains in Arctic](https://explorer.aapg.org/story?articleid=15833), Louise S. Durham, AAPG Explorer, February 2015
 
 
 
