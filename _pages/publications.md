@@ -16,7 +16,8 @@ author_profile: true
 
 ## 2017
 
-- pub 4
+- [Light Field Displays: From Current Developments to the Next Generation](http://www.smfold.org/wp-content/uploads/2017/10/Avavlon-Light-Field-Displays-From-Current-Developments-to-the-Next-Generation_RBEdits.pdf) 2017
+Streaming Media Field of Light Display (SMFoLD) Workshop, Sterling, VA, U.S.A.
 
 
 # Press Articles
@@ -30,4 +31,5 @@ author_profile: true
 
 ## 2019
 
-- [Directional Pixel for multiple view display](https://patents.google.com/patent/US20180255286A1/en)
+- Directional Pixel for multiple view display, US10244230B2 
+- Layered scene decomposition CODEC system and methods, US20190068973A1
