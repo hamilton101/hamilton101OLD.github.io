@@ -9,7 +9,8 @@ author_profile: true
 
 ## 2018
 
-- publication 1
+- [\Holographic Displays: Emerging Technologies and Use Cases in Defense Applications](https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-MSG-159/MP-MSG-159-08.pdf)
+NATO MSG-159 2018 Annual M&S Conference.Hamilton, M., Rumbolt, C. Butyn, T. Benoit, D. Lockyer, R. Troke, M.
 
 - publication 2
 
