@@ -34,11 +34,13 @@ the OTC Arctic Technology Conference, St. John's, Canada. Hamilton, M. Maynard, 
 
 ## 2015
 
-- [Virtual Arctic Simulation Environment](https://www.onepetro.org/conference-paper/OTC-25525-MS)
+- [Virtual Arctic Simulation Environment](https://www.onepetro.org/conference-paper/OTC-25525-MS) Proceedings
+of the OTC Arctic Technology Conference, Copenhangen, Denmark. Hamiton, M., Dodd, S.
 
 ## 2013
 
-- My thesis
+- [Real-Time Time-Warped Multiscale Signal Processing for Scientific Visualization](https://era.library.ualberta.ca/items/4507a7c6-dffc-459e-b217-bc12d05e4fe3)
+PhD Thesis, University of Alberta
 
 
 ## 2008
