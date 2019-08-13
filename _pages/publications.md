@@ -16,7 +16,7 @@ author_profile: true
 NATO MSG-159 2018 Annual M&S Conference. *Hamilton, M.* Butyn, T. Baker, R.
 
 - [Light Field Display Simulator for Experience and Quality Evaluation](https://onlinelibrary.wiley.com/doi/abs/10.1002/sdtp.12268) Display
-Week 2018 SID Symposium Digest of Technical Papers, Vol. 29, 1523-1526. *Hamilton, M.*, Rumbolt, C. Butyn, T. Benoit, D. Lockyer, R. Troke, M.
+Week 2018 SID Symposium Digest of Technical Papers, Vol. 29, 1523-1526. **Hamilton, M.**, Rumbolt, C. Butyn, T. Benoit, D. Lockyer, R. Troke, M.
 
 
 ## 2017
