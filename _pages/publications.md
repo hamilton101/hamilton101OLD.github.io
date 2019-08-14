@@ -56,7 +56,6 @@ Computer Engineering Conference (NECEC 2005). **Hamilton, M.**, Churchill D., Bo
 
 
 ## Standards
-
 ### MPEG Documents
 
 - Codec Requirements for Dense Light Field Displays, ISO/IEC JTC1/SC29/WG11 Input Document m41773, Macau, CN, October 2017
@@ -66,6 +65,8 @@ Computer Engineering Conference (NECEC 2005). **Hamilton, M.**, Churchill D., Bo
 
 - Directional Pixel for multiple view display, US10244230B2 
 - Layered scene decomposition CODEC system and methods, US20190068973A1
+
+Also several patents pending.
 
 
 
