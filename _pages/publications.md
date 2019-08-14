@@ -48,7 +48,6 @@ Computer Engineering Conference (NECEC 2005). **Hamilton, M.**, Churchill D., Bo
 
 
 
-
 ## Press Articles
 
 - [Simulated Environment, Real Gains in Arctic](https://explorer.aapg.org/story?articleid=15833), by Louise S. Durham, AAPG Explorer, February 2015
