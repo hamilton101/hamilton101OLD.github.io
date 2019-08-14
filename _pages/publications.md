@@ -13,7 +13,7 @@ author_profile: true
 ## 2018
 
 - [Holographic Displays: Emerging Technologies and Use Cases in Defense Applications](https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-MSG-159/MP-MSG-159-08.pdf),
-NATO MSG-159 2018 Annual M&S Conference. *Hamilton, M.* Butyn, T. Baker, R.
+NATO MSG-159 2018 Annual M&S Conference. **Hamilton, M.** Butyn, T. Baker, R.
 
 - [Light Field Display Simulator for Experience and Quality Evaluation](https://onlinelibrary.wiley.com/doi/abs/10.1002/sdtp.12268) Display
 Week 2018 SID Symposium Digest of Technical Papers, Vol. 29, 1523-1526. **Hamilton, M.**, Rumbolt, C. Butyn, T. Benoit, D. Lockyer, R. Troke, M.
@@ -24,16 +24,18 @@ Week 2018 SID Symposium Digest of Technical Papers, Vol. 29, 1523-1526. **Hamilt
 - [Light Field Displays: From Current Developments to the Next Generation](http://www.smfold.org/wp-content/uploads/2017/10/Avavlon-Light-Field-Displays-From-Current-Developments-to-the-Next-Generation_RBEdits.pdf) 2017
 Streaming Media Field of Light Display (SMFoLD) Workshop, Sterling, VA, U.S.A.
 
+- 
+
 
 ## 2016
 
 - [Integrated Design and Analysis for Virtual Arctic Simulation Environment](https://www.onepetro.org/conference-paper/OTC-27392-MS) Proceedings of
-the OTC Arctic Technology Conference, St. John's, Canada. Hamilton, M. Maynard, A., Jujuly, M., Adeoti, I., Rahman, A., Adey, M.
+the OTC Arctic Technology Conference, St. John's, Canada. **Hamilton, M.** Maynard, A., Jujuly, M., Adeoti, I., Rahman, A., Adey, M.
 
 ## 2015
 
 - [Virtual Arctic Simulation Environment](https://www.onepetro.org/conference-paper/OTC-25525-MS) Proceedings
-of the OTC Arctic Technology Conference, Copenhangen, Denmark. Hamiton, M., Dodd, S.
+of the OTC Arctic Technology Conference, Copenhangen, Denmark. **Hamiton, M.**, Dodd, S.
 
 ## 2013
 
@@ -44,7 +46,17 @@ PhD Thesis, University of Alberta
 ## 2008
 
 - [Coarse-grained molecular simulation of diffusion and reaction kinetics in a crowded virtual cytoplasm](https://www.sciencedirect.com/science/article/pii/S0006349508703783)
-BiophysicalJour nal 2008, May 15;94(10):3748-59.
+Biophysical Journal 2008, May 15;94(10):3748-59. Ridgway, D., Broderick, G., Lopez-Campistrous, A., Ru'aini, M., Winter, P., **Hamilton,
+M.**, Boulanger, P., Kovalenko, A., Ellison, M.J.
+
+## 2007
+
+[Approximating Solution Structure](http://drops.dagstuhl.de/portals/index.php?semnr=07281)In E. Demaine, G.Z. Gutin, D. Marx, and U. Stege (eds.) Structure Theory
+ and FPT Algorithmics for Graphs, Digraphs, and Hypergraphs. Dagstuhl Seminar Proceedings no. 07281. Internationales Begegnungs- und Forschungszentrum 
+fur Informatik (IBFI), Schloss Dagstuhl, Germany. van Rooij, I., **Hamilton, M.**, **Müller, M.**, **Wareham, T.**
+
+## 2006
+[The Parameterized Complexity of Enumerating Frequent Itemsets](https://link.springer.com/chapter/10.1007/11847250_21)
 
 
 # Press Articles
