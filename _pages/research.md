@@ -7,5 +7,5 @@ author_profile: true
 
 
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![Multiscale protein folding visualization](https://img.youtube.com/vi/GFK5kbQcaYQ/0.jpg)](https://www.youtube.com/watch?v=GFK5kbQcaYQ "Multiscale Visualization")
 
