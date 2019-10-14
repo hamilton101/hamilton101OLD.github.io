@@ -23,7 +23,7 @@ the OTC Arctic Technology Conference, St. John's, Canada. **Hamilton, M.** Mayna
 of the OTC Arctic Technology Conference, Copenhangen, Denmark. **Hamiton, M.**, Dodd, S. (2015)
 
 - [Real-Time Time-Warped Multiscale Signal Processing for Scientific Visualization](https://era.library.ualberta.ca/items/4507a7c6-dffc-459e-b217-bc12d05e4fe3)
-PhD Disswertation, Department of Computing Science, University of Alberta (2013)
+PhD Dissertation, Department of Computing Science, University of Alberta (2013)
 
 - [Coarse-grained molecular simulation of diffusion and reaction kinetics in a crowded virtual cytoplasm](https://www.sciencedirect.com/science/article/pii/S0006349508703783)
 Biophysical Journal 2008, May 15;94(10):3748-59. Ridgway, D., Broderick, G., Lopez-Campistrous, A., Ru'aini, M., Winter, P., **Hamilton,
