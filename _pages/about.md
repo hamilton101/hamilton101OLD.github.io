@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Matthew Hamilton. Since 2015, I have worked for a holographic start-up [Avalon Holographics](https://www.avalonholographics.com/). 
+My name is Matthew Hamilton. Since 2015, I have worked for a holographic display start-up [Avalon Holographics](https://www.avalonholographics.com/). 
 I also run a company called [Birch Scientific](http://www.birchscientific.com/).
 Previously, I worked for [GRI Simulations](https://www.grisim.com/), a simulation and visualization company, as a NSERC/RDC-NL Postdoctoral Industrial R&D
 Fellow.
